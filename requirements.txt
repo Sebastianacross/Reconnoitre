@@ -1,0 +1,5 @@
+PySimpleGUI==5.0.8.3
+aiohttp==3.9.5
+requests==2.31.0
+beautifulsoup4==4.12.3
+python-whois==0.7.3
